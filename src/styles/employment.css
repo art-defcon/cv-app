@@ -1,0 +1,99 @@
+/* Styling for the EmploymentHistory component */
+.accordion-button {
+  background-color: rgba(60, 60, 80, 0.8) !important;
+  color: var(--text-dark) !important;
+  box-shadow: none !important;
+  border-radius: 8px !important;
+  font-size: 1.25rem;
+}
+
+.job-details-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.job-section h5 {
+  margin-bottom: 0.75rem;
+}
+
+.tag-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.role-tag, .tech-tag, .method-tag {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 30px;
+  font-size: 0.85rem;
+  margin-bottom: 8px;
+  color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: all 0.2s ease;
+}
+
+.role-tag:hover, .tech-tag:hover, .method-tag:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.role-tag {
+  background: linear-gradient(135deg, #654ea3, #5851db);
+}
+
+.tech-tag {
+  background: linear-gradient(135deg, #2193b0, #6dd5ed);
+}
+
+.method-tag {
+  background: linear-gradient(135deg, #11998e, #38ef7d);
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: rgba(70, 70, 100, 0.9) !important;
+  color: white !important;
+}
+
+.accordion-button:focus {
+  box-shadow: none !important;
+  border-color: transparent !important;
+}
+
+.accordion-button::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e") !important;
+}
+
+.accordion-item {
+  background-color: transparent !important;
+  border: 1px solid rgba(100, 100, 140, 0.2) !important;
+  border-radius: 8px !important;
+  margin-bottom: 10px !important;
+}
+
+.accordion-body {
+  background-color: rgba(50, 50, 70, 0.7) !important;
+  color: var(--text-light) !important;
+  border-bottom-left-radius: 8px !important;
+  border-bottom-right-radius: 8px !important;
+}
+
+.accordion-body h5 {
+  color: var(--accent-color) !important;
+  font-size: 1.1rem !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.accordion-body ul {
+  padding-left: 20px !important;
+}
+
+.accordion-body li {
+  margin-bottom: 5px !important;
+}
+
+.cv-card ul {
+  color: var(--text-light);
+}
