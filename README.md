@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# John Henrik Petroff's CV
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal CV site repository! This interactive React-based CV showcases my professional experience, skills, and background.
 
-## Available Scripts
+## 🌐 Live Demo
 
-In the project directory, you can run:
+My CV is published at **[https://petroff.se](https://petroff.se)**
 
-### `npm start`
+![CV Screenshot](https://raw.githubusercontent.com/johnpetroff/react-lab/main/cv-app/docs/images/cv-screenshot.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Interactive CV Layout**: Modern, dark-themed design with interactive sections
+- **Responsive Design**: Fully responsive layout that works on desktop and mobile
+- **Auto-expanding Sections**: Employment history sections that automatically expand as you scroll
+- **Floating Profile**: Profile image that follows as you scroll through the page
+- **Team Header**: Beautiful team image with gradient overlay
 
-### `npm test`
+## 👨‍💻 My Professional Background
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This CV showcases my extensive experience in:
+- Leadership roles at ALTEN Sverige AB
+- Product management at Chas Visual Management
+- Software development across multiple technologies
+- Project management and team building
 
-### `npm run build`
+## 💼 Contact Me
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Email**: john@petroff.se
+- **Phone**: +46 707 20 00 87
+- **Location**: Stockholm, Sweden
+- **LinkedIn**: linkedin.com/in/johnpetroff
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ Technical Details
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This project was built with:
+- React
+- TypeScript
+- Bootstrap
+- CSS with custom animations
 
-### `npm run eject`
+### Running Locally
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+# Clone the repository
+git clone https://github.com/johnpetroff/react-lab.git
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Navigate to the project directory
+cd cv-app
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Install dependencies
+npm install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Start the development server
+npm start
+```
 
-## Learn More
+The app will be available at [http://localhost:3000](http://localhost:3000)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Building for Production
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm run build
+```
 
-### Code Splitting
+This creates a production-ready build in the `build` folder that can be deployed to any static hosting service.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© 2025 John Henrik Petroff. All rights reserved.
