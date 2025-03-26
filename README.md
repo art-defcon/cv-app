@@ -6,7 +6,7 @@ Welcome to my personal CV site repository! This interactive React-based CV showc
 
 My CV is published at **[https://petroff.se](https://petroff.se)**
 
-![CV Screenshot](https://raw.githubusercontent.com/johnpetroff/react-lab/main/cv-app/docs/images/cv-screenshot.png)
+![CV Screenshot](https://github.com/art-defcon/cv-app/blob/main/cv-app/docs/images/cv-screenshot.png)
 
 ## 🚀 Features
 
