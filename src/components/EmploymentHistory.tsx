@@ -206,7 +206,7 @@ const employmentData: Employment[] = [
     ]
   },
   {
-    period: "Jan 1999 – Jun 2000",
+    period: "Feb 1999 – Jun 2000",
     title: "Technical Officer",
     company: "Swedish Armed Forces",
     roles: [
@@ -227,7 +227,7 @@ const employmentData: Employment[] = [
     ]
   },
   {
-    period: "May 2007 - Aug 2008",
+    period: "Jun 1998 - Feb 1999",
     title: "Transceiver Production",
     company: "Ericsson",
     roles: [
