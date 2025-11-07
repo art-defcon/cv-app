@@ -14,6 +14,37 @@ interface Employment {
 
 const employmentData: Employment[] = [
   {
+    period: "Jun 2025 - Present",
+    title: "DevOps Architect",
+    company: "JENSEN education (Freelance)",
+    roles: [
+      "DevOps Architect", "Infrastructure Architect", "Migration Lead",
+      "Team Lead", "Security Architect"
+    ],
+    technologies: [
+      "GCP", "Terraform", "Ansible", "Kubernetes", "Docker", "Jenkins", "CI/CD",
+      "Prometheus", "Grafana", "ELK", "Elasticsearch", "Logstash", "Kibana",
+      "Vault", "HashiCorp", "Falco", "Google SSO", "JIRA", "Infrastructure as Code",
+      "On-premises Infrastructure", "Feature Flags", "Cloud Native", "PostgreSQL",
+      "Redis", "Apache Kafka", "Microservices", ".NET", "Angular"
+    ],
+    methods: [
+      "Infrastructure as Code (IaC)", "Cloud Migration", "Cost Optimization",
+      "IT Cost Optimization", "DevOps", "Security Architecture", "Security Automation",
+      "Monitoring & Observability", "Offshore Team Management", "Feature Flag Management",
+      "Architectural Design"
+    ],
+    achievements: [
+      "Leading Infrastructure modernization project for client with 18,000 users",
+      "Successfully executed GCP-to-on-premises migration achieving 65% cost reduction",
+      "Implemented Infrastructure as Code using Terraform and Ansible for repeatable deployments",
+      "Deployed enterprise Kubernetes platform with Jenkins CI/CD pipeline supporting ~50 daily deployments",
+      "Established comprehensive monitoring stack using Prometheus, Grafana, and ELK for full observability",
+      "Implemented enterprise security solutions including Vault for secrets management, Falco for runtime security, and Google SSO for authentication",
+      "Architected offshore team workflows and feature flag management with Jira integration"
+    ]
+  },
+  {
     period: "Aug 2018 – Jun 2025",
     title: "Practice Lead & Expert",
     company: "ALTEN Sverige AB",
