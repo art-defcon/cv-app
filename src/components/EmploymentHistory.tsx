@@ -22,15 +22,17 @@ const employmentData: Employment[] = [
       "Team Lead", "Security Architect"
     ],
     technologies: [
-      "GCP", "Terraform", "Ansible", "Kubernetes", "Jenkins", "CI/CD",
+      "GCP", "Terraform", "Ansible", "Kubernetes", "Docker", "Jenkins", "CI/CD",
       "Prometheus", "Grafana", "ELK", "Elasticsearch", "Logstash", "Kibana",
-      "Vault", "Falco", "Google SSO", "JIRA", "Infrastructure as Code",
-      "On-premises Infrastructure", "Feature Flags"
+      "Vault", "HashiCorp", "Falco", "Google SSO", "JIRA", "Infrastructure as Code",
+      "On-premises Infrastructure", "Feature Flags", "Cloud Native", "PostgreSQL",
+      "Redis", "Apache Kafka", "Microservices", ".NET", "Angular"
     ],
     methods: [
       "Infrastructure as Code (IaC)", "Cloud Migration", "Cost Optimization",
-      "DevOps", "Security Architecture", "Monitoring & Observability",
-      "Offshore Team Management", "Feature Flag Management"
+      "IT Cost Optimization", "DevOps", "Security Architecture", "Security Automation",
+      "Monitoring & Observability", "Offshore Team Management", "Feature Flag Management",
+      "Architectural Design"
     ],
     achievements: [
       "Leading Infrastructure modernization project for client with 18,000 users",
